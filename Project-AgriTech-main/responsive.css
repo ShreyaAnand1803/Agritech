@@ -1,0 +1,175 @@
+@media screen and (max-width: 900px){
+    .text-center{
+        font-size: 20px;
+    }
+    .content1{
+        height: 60vh;
+    }
+    .content1 .upperbg{
+        height: 60vh;
+    }
+    .upperbg img{
+        width: 40vw;
+        height: 25vw;
+        border-radius: 20px;  
+    }
+    .upperbg .textbox .text2{
+        font-size: 20px;
+    }
+    .boxs{
+        flex-direction: column;
+    }
+    .boxs .box img{
+        width: 40vw;
+        height: 25vh;
+        display: flex;
+        margin: auto;
+    }
+    .content2a img{
+        height: 25vw;
+        border-radius: 40px;
+    }
+    .content2a .text2a p{
+        font-size: 4vw;
+    }
+    .text2a .more a{
+        font-size: 2vw;
+    }
+    .card .card-item{
+        margin: 20px;
+        padding: 15px;
+    }
+    .text4{
+        width: 600px;
+    }
+}
+@media screen and (max-width: 650px){
+    nav{
+        flex-direction: column;
+    }
+    nav ul{
+        height: 6vh;
+    }
+    .list{
+        margin: 10px 0;
+    }
+    .logo{
+        padding-top: 10px;
+    }
+    .btn{
+        margin-bottom: 10px;
+        justify-content: flex-end;
+    }
+    .content1{
+        height: 50vh;
+    }
+    .content1 .upperbg{
+        height: 50vh;
+    }
+    .upperbg .textbox .text1{
+        font-size: 25px;
+    }
+    .upperbg .textbox .text2{
+        margin: 0 20px;
+        font-size: 18px;
+    }
+    .content2 {
+        margin: 10px 15vw;
+    }
+    .boxs .box img{
+        width: 45vw;
+        height: 20vh;
+    }
+    .content3 .card{
+        padding: 0 20px;
+    }
+    .content2a img{
+        height: 28vw;
+        border-radius: 30px;
+    }
+    .content2a .text2a p{
+        font-size: 4.25vw;
+    }
+    .text2a .more a{
+        font-size: 15px;
+    }
+    .text2a .more{
+        margin: 0;
+    }
+    
+    .card .card-item{
+        margin: 15px;
+    }
+    .card-item img{
+        width: 12vw;
+        height: 12vw;
+    }
+    .text4{
+        width: 500px;
+        font-size: 30px;
+    }
+    
+}
+@media screen and (max-width: 500px){
+    .content1{
+        height: 45vh;
+    }
+    .content1 .upperbg{
+        height: 45vh;
+    }
+    .content2 {
+        margin: 10px 10vw;
+    }
+    .boxs .box img{
+        width: 50vw;
+        height: 15vh;
+    }
+    .content2a{
+        margin: 10px 3vw;
+    }
+    .content2a img{
+        height: 30vw;
+    }
+    .content2a .text2a p{
+        font-size: 4.5vw;
+    }
+    .text2a .more{
+        padding: 0 5px;
+    }
+    .text2a .more a{
+        font-size: 12px;
+    }
+    .content3 .card{
+        padding: 0 10px;
+    }
+    .card .card-item{
+        padding: 10px;
+    }
+    .text4{
+        width: 400px;
+    }
+}
+@media screen and (max-width: 400px){
+    .list{
+        margin: 10px 0;
+    }
+    .btn{
+        margin-bottom: 10px;
+    }
+    .upperbg .textbox .text2{
+        margin: 0 10px;
+        font-size: 15px;
+    }
+    .textbox .text1{
+        font-size: 20px;
+    }
+    .boxs .box{
+        padding: 10px;
+    }
+    .content2a img{
+        border-radius: 20px;
+    }
+    .text4{
+        width: 300px;
+    }
+}
