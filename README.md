@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 
 3. Install the Dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install django djangorestframework scikit-learn pandas numpy
    ```
 
 4. Apply Migrations:
